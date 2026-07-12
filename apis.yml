@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://sheetsu.com/
 common:
+  - type: DomainSecurity
+    url: security/sheetsu-domain-security.yml
   - type: Website
     url: https://sheetsu.com/
   - type: PublicAPIsListing
